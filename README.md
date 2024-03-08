@@ -9,9 +9,15 @@
 
 ### 🤝 Connect with me:
 
-![Static Badge](https://img.shields.io/badge/TELEGRAM-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze)
-![Static Badge](https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100005879593216)
-![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkoba-kamladze-878bb7291%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app)
+<a href="https://www.linkedin.com/in/koba-kamladze-878bb7291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://www.t.me/kobakamladze">
+  <img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-dark?style=for-the-badge&logo=telegram">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100005879593216">
+  <img alt="facebook" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook">
+</a>
 
 ---
 
