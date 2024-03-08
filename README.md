@@ -10,7 +10,8 @@
 ### 🤝 Connect with me:
 
 <img alt="Facebook" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100005879593216" />&nbsp;
-<img alt="Telegram" src="[https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze](https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze)" />&nbsp;
+<img alt="Telegram" src="[[https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze](https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze)](https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze
+)" />&nbsp;
 <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkoba-kamladze-878bb7291%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" />&nbsp;
 
 ---
