@@ -10,6 +10,8 @@
 ### 🤝 Connect with me:
 
 ![Static Badge](https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100005879593216)
+![Static Badge](https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze)
+
 
 <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze">
 
