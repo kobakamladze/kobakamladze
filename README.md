@@ -13,8 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze)
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze">
-
+[<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-dark?style=for-the-badge&logo=telegram&link=http%3A%2F%2Fwww.t.me%2Fkobakamladze">][telegram]
 <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkoba-kamladze-878bb7291%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" />&nbsp;
 
 ---
