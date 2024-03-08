@@ -9,13 +9,13 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/koba-kamladze-878bb7291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/koba-kamladze-878bb7291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="https://www.t.me/kobakamladze">
+<a href="https://www.t.me/kobakamladze" target="_blank">
   <img alt="telegram" src="https://img.shields.io/badge/TELEGRAM-dark?style=for-the-badge&logo=telegram">
 </a>
-<a href="https://www.facebook.com/profile.php?id=100005879593216">
+<a href="https://www.facebook.com/profile.php?id=100005879593216" target="_blank">
   <img alt="facebook" src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook">
 </a>
 
