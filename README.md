@@ -9,7 +9,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/koba-kamladze-878bb7291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/koba-kamladze-878bb7291" target="_blank">
   <img alt="linkedin" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="https://www.t.me/kobakamladze" target="_blank">
